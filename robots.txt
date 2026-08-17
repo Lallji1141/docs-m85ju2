@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-02vb1r.salamduit.xyz/sitemap.xml
